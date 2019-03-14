@@ -1,5 +1,7 @@
 # My_JAVA_NoteBook
 
+
+# Programming language terms(derived from [stackflow](https://stackoverflow.com/questions/18202818/classes-vs-functions))
 ## function
     - purpose: process data, manipulate data, create result sets.
     - when to use: always code a function if you want to do this: “y=f(x)”
